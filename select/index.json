@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "凛と舞いましはんなり小町",
+  "base_artist": "GEMS COMPANY",
+  "createdAt": "2025-12-05T01:24:49.787020Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "凛と舞いましはんなり小町",
+      "artist": "GEMS COMPANY",
+      "has_synced": false,
+      "path": "select/pl_01_凛と舞いましはんなり小町_GEMS_COMPANY.txt"
+    }
+  ]
+}
